@@ -1,0 +1,6 @@
+{"_id":{"$oid":"694ab23819dfb7326a8416aa"},"TransactionID":1,"Montant":1000,"Type":"Credit"}
+{"_id":{"$oid":"694ac7e019dfb7326a8416ab"},"TransactionID":1,"Montant":1000,"Type":"Credit"}
+{"_id":{"$oid":"694ac7e019dfb7326a8416ac"},"TransactionID":2,"Montant":500,"Type":"Debit"}
+{"_id":{"$oid":"694ac7e019dfb7326a8416ad"},"TransactionID":3,"Montant":1500,"Type":"Credit"}
+{"_id":{"$oid":"694ac7e019dfb7326a8416ae"},"TransactionID":4,"Montant":700,"Type":"Debit"}
+{"_id":{"$oid":"694ac7e019dfb7326a8416af"},"TransactionID":5,"Montant":2000,"Type":"Credit"}
